@@ -6,7 +6,7 @@ I'm currently a CX Systems Analyst II @ Calendly.
 ### Links:
 <ul>
 <li><a href="https://www.linkedin.com/in/wfoody/">LinkedIn</a></li>
-<li><a href="https://www.willfoody.com/">Website</a></li>
+<li><a href="https://willfoody.netlify.app/">Website</a></li>
 </ul>
 <!--
 **wfoody/wfoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
